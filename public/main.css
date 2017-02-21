@@ -1,0 +1,47 @@
+body {
+    font-family: Helvetica Neue, Helvetica, Arial, Hiragino Sans GB, Hiragino Sans GB W3, Microsoft YaHei, sans-serif;
+}
+
+dl {
+    margin-bottom: 0;
+}
+
+.toc-wrap {
+    padding: 30px 40px 30px 30px;
+    width: 330px;
+    color: #c7d0d5;
+    background: #607d8b;
+}
+
+.toc-wrap a {
+    color: #c7d0d5;
+    text-decoration: none;
+}
+
+.toc-head-title {
+    font-size: 20px;
+}
+
+.toc-item {
+    padding-left: 20px;
+}
+
+.toc-item-head {
+    color: #ffffff
+}
+
+.toc-item-count {
+    display: flex;
+    height: 40px;
+}
+
+.toc-item-count div {
+    margin: auto;
+}
+
+.toc-item-head .toc-item-count div {
+    margin-right: -8px;
+    padding: 3px 8px;
+    border-radius: 100%;
+    background: #516a76;
+}
